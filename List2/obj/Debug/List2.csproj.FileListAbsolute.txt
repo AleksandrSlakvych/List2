@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.exe.config
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.exe
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.pdb
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.exe
+C:\Users\Student\Downloads\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.pdb
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.exe.config
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.exe
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\bin\Debug\List2.pdb
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.exe
+C:\Users\Aleksandr\Downloads\List2-20190525T071035Z-001-20190525T152332Z-001\List2-20190525T071035Z-001\List2\List2\obj\Debug\List2.pdb
